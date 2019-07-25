@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 source 'http://rubygems.org'
 ruby ">=2.5.3"
 
@@ -92,6 +93,8 @@ group :development do
     gem 'rails_real_favicon'
 end
 =======
+=======
+>>>>>>> 866e0e3f751445e9d88a09e6bcf7c84e140f4e94
 source 'http://rubygems.org'
 ruby "2.5.3"
 
@@ -183,5 +186,9 @@ end
 
 group :development do
     gem 'rails_real_favicon'
+<<<<<<< HEAD
 end
 >>>>>>> 777e60d1e8ff7ee8339edbc66a7001ef3f98dd88
+=======
+end
+>>>>>>> 866e0e3f751445e9d88a09e6bcf7c84e140f4e94
